@@ -1,0 +1,769 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.it{
+    float: left;
+    list-style-type: none;
+    padding: 15px;
+    padding-top: 15px;
+    font-size: 18px;
+}
+.ul{
+    padding-left: 620px;
+    padding-top: 20px;
+   
+}
+.a{
+    margin-left:100px;
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+.hr{
+    text-decoration: none;
+    color: rgb(83, 76, 76);
+}
+.til{
+    font-size: 48px;
+    padding-top: 130px;
+    padding-left: 110px;
+    color:rgb(77, 72, 72);
+}
+.aqua{
+    background-color:white;
+    height: 80px;
+    
+}
+.tit{
+    padding-top: 30px;
+    padding-left: 110px;
+    color: rgb(92, 86, 86);
+}
+.tik{
+    padding-top: 30px;
+    padding-left: 110px;
+}
+.get{
+    padding: 13px 30px 13px 30px;
+    background-color: rgb(7, 110, 194);
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+}
+.all{
+    float: left;
+}
+.gm{
+    width: 70%;
+    height:450px;
+}
+.pho{
+    float: left;
+    padding-top: 60px;
+    padding-right: 0px;
+    padding-left: 130px;
+  
+}
+.dho{
+    padding-top: 60px;
+    padding-left: 50px;
+}
+.tho{
+    width: 40%;
+    height: auto;
+    float: left;
+}
+.amr{
+    float: left;
+    padding-left: 22px;
+    width: 50%;
+}
+.nm{
+    list-style: none;
+    font-size: 18px;
+    padding: 5px;
+    padding-top: 10px;
+}
+.kk{
+    padding-top: 10px;
+    font-size: 18px;
+}
+.dhi{
+    background-color:whitesmoke;
+    height: 400px;
+    clear: both;
+    margin-left: 110px;
+    margin-top: 600px;
+    margin-right: 110px;
+}
+.dd{
+    padding-top: 10px;
+    list-style-type: none;
+    font-size: 18px;
+}
+.aij{
+    text-decoration: none;
+    font-size: 18px;
+   
+}
+.curr{
+    padding-left: 30px;
+    margin-top: 60px;
+    float: left;
+    width: 43%;
+}
+.jil{
+    color: rgb(82, 76, 76);
+}
+.vij{
+    font-size: 16px;
+    color: rgb(129, 124, 124);
+}
+.jad{
+    margin: 5px;
+    background-color:white;
+    height: auto;
+    width: 90%;
+    margin-left:20px ;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.jad:hover{
+    background-color: whitesmoke;
+    border-left: 3px solid rgb(206, 204, 204);
+
+}
+.jad:active{
+    border-left: 3px solid skyblue;
+}
+.brv{
+    padding-right: 10px;
+    padding-left: 50px;
+    float: left;
+    padding-top: 60px;
+}
+.juk{
+    width: 85%;
+    height: auto;
+}
+.jil:active{
+    color: rgb(7, 110, 194) ;
+}
+.sam{
+    margin-top:40px;
+    margin-left: 110px;
+}
+.wah{
+    text-align: center;
+    color: rgb(95, 84, 84);
+    font-size: 40px;
+  
+}
+.hir{
+    font-size: 20px;
+    color: rgb(59, 53, 53);
+    line-height: 30px;
+    padding-top: 30px;
+    text-align: center;
+} 
+
+.hike{
+    margin-top: 50px;
+}   
+.art{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.hg{
+    font-size: 16px;
+    padding-top: 10px;
+    line-height: 20px;
+}
+.ab{
+    padding-top: 20px;
+}
+.kuq{
+    float: left;
+    margin-left: 20px;
+    background-color:white;
+    width: 20%;
+    height: 250px;
+    padding-left: 20px;
+    text-align: center;
+}
+.hike .one{
+    max-height: 250px !important;
+    margin-left: 60px;
+}
+.bxl-dribbble{
+    font-size: 30px;
+    padding-top: 25px;
+}
+.bx-file{
+    font-size: 30px;
+    padding-top: 25px;
+}
+.bx-tachometer{
+    font-size: 30px;
+    padding-top: 25px;
+
+}
+.bx-world{
+    font-size: 30px;
+    padding-top: 25px;
+}
+.sig{
+    clear: both;
+    background-color:whitesmoke;
+    height: 450px;
+    max-width: 100% !important;
+    padding-top: 50px;
+}
+.gis{
+    margin-top: 600px;
+    clear: both;
+}
+.one:hover{
+    border-bottom: 4px solid #e9195f;
+}
+.b:hover{
+    border-bottom: 4px solid #1778e9;
+}
+.c:hover{
+    border-bottom: 4px solid #17e98f;
+}
+.d:hover{
+    border-bottom: 4px solid  #1778e9;
+}
+.puq{
+  float: left;
+  text-align: center;
+  list-style-type: none;
+  padding-left: 20px;
+}
+.hij{
+    margin-left: 550px;
+    padding-top: 30px;
+}
+.yui{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+.e:active{
+    color: rgb(62, 169, 211);
+}
+.yui:hover{
+    color:blue;
+}
+.zaq{
+    float: left;
+    width: 28%;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.nil{
+    padding-top: 50px;
+    margin-left: 80px;
+}
+.jan{
+    margin-bottom: 50ppx;
+    margin-top: 50px;
+    padding-top: 80px;
+    clear: both;
+    height: 30cm   
+}
+.sep{
+    clear: both;
+    background-color:whitesmoke;
+    margin-top: 100px;
+    padding-top: 80px;
+    padding-left: 110px;
+    height: 160px;
+}
+.xed{
+    float: left;
+    clear: both;
+}
+.white{
+    float: left;
+}
+.der{
+    font-size: 30px;
+}
+.red{
+    font-size: 18px;
+    padding-top: 20px;
+}
+.blue{
+    padding-top: 50px;
+}
+.ora{
+    text-decoration: none;
+    padding: 50px 40px 40px 50px; 
+    color: white;
+}
+.ipl{
+    width: 10%;
+}
+.admk{
+    float: left;
+    margin-left: 20px;
+    font-size: 18px;
+    color: rgb(77, 72, 72);;
+    background-color:whitesmoke;
+    width: 30%;
+    height: 200px;
+  
+}
+.vik{
+    padding-left: 20px;
+    padding-top: 20px;
+    line-height: 25px;
+}
+.dmk{
+    padding-top:30px;
+    margin-left: 110px;
+}
+.mkm{
+    margin-top: 50px;
+    background-color: white;
+    height: 500px;
+}
+.quiz{
+    float: left;
+    width: 6%;
+    margin-left: 200px;
+    border-radius: 60px ;
+    margin-top: -20px;
+}
+.lab{
+    padding-top: 200px;
+}
+.em{
+   margin-left: 250px;
+   margin-top: -20px;
+}
+.fm{
+   margin-left: 350px;
+   margin-top: -20px;
+}
+
+.ton{
+   text-align: center;
+}
+.jack{
+    float: left;
+    width: 28%;
+    margin-left: 40px;
+}
+.term{
+    margin-left: 40px;
+    padding-top: 30px;
+}
+.tom{
+    margin-top: 50px;
+    background:url(https://bootstrapmade.com/demo/themes/Scaffold/assets/img/team-bg.jpg)center center no-repeat  ;
+    height:100vh;
+    background-color:white;
+}
+.time{
+    margin-left: 60px;
+    
+}
+.rh{
+    width: 35%;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.slag{
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    background-color:white;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.valt{
+    padding-top: 15px;
+}
+.n{
+    margin-left: 150px;
+    padding-left: 80px;
+}
+.o{
+   margin-left: 150px;
+}
+.may{
+   
+    width: 35%;
+    padding-left: 80px;
+    padding-top: 20px;
+   
+}
+.feb{
+    margin-left: 110px;
+    margin-top: 50px;
+   
+}
+.decem{
+    background-color: white;
+    height: 75vh;
+    padding-top: 50px;
+}
+
+.apri{
+    align-items: center;
+    border-right: 1px solid #eceff0;
+    border-bottom: 1px solid #eceff0;
+    overflow: hidden;
+    background: #fff;
+    height: 80px;
+    padding: 20px;
+    width: 20%;
+    float: left;
+}
+.mount{
+    background-color: whitesmoke;
+    height: 110vh;
+    padding-top: 50px;
+}
+.mads{
+    width: 22%;
+    height: 70vh;
+    background-color:white;
+    margin: 15px;
+    float: left;
+    text-align: center;
+    padding-top: 50px;
+}
+.pokm{
+    padding-top: 20px;
+    font-size: 30px;
+    color:#007bff ;
+}
+.phr{
+    padding-top: 20px;
+    line-height: 40px;
+    color: rgb(145, 133, 133);
+}
+.clup{
+    font-size: 18px;
+    color:rgb(190, 181, 181) ;
+}
+.jun{
+    margin-left: 50px;
+}
+.buyn{
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    background-color: #007bff;
+    border-radius: 5px;
+    border: none;
+}
+.pam{
+    background-color:#007bff ;
+    color: white;
+}
+.nike{
+    background-color: whitesmoke;
+}
+.ytou{
+    color: rgb(190, 181, 181);
+}
+.nb{
+    color:white ;
+}
+.ninj{
+    text-decoration: line-through;
+    padding-top: 8px;
+    color: rgb(90, 85, 85);
+}
+.bs{
+    color: white;
+}
+.dise{
+    margin-left: 80px;
+    padding-top: 50px;
+}
+.alti{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(78, 74, 74);
+}
+.faq{
+    list-style-type: none;
+}
+.init{
+    padding-top: 20px;
+}
+.alti:hover{
+    color:#007bff
+}
+.container{
+    padding-top: 60px;
+    background-color: white;
+    height: 65vh;
+}
+.root{
+    margin-left: 100px;
+    padding-top: 40px;
+}
+.merge{
+    clear: both;
+    padding-top: 100px;
+    background-color: whitesmoke;
+    height: 110vh;
+}
+.might{
+    font-size: 22px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.bxs-map{
+    border-radius:50px ;
+    background-color: whitesmoke;
+    padding: 8px;
+    margin-right: 13px;
+    font-size: 15px;
+    color:#007bff;
+}
+.bx-envelope{
+    border-radius:50px ;
+    background-color: whitesmoke;
+    padding: 8px;
+    margin-right: 13px;
+    font-size: 15px;
+    color:#007bff;
+}
+.bx-phone{
+    border-radius:50px ;
+    background-color:whitesmoke;
+    padding: 8px;
+    margin-right: 13px;
+    font-size: 15px;
+    color:#007bff;
+}
+.clar{
+    font-size: 18px;
+    padding-left: 45px;
+}
+.bxs-map:hover{
+    background-color:#007bff ;
+    color: white;
+}
+.bx-envelope:hover{
+    background-color:#007bff ;
+    color: white;
+}
+.bx-phone:hover{
+    background-color:#007bff ;
+    color: white;
+}
+.right{
+    background-color:white;
+    width: 38%;
+    height: 85vh;
+    float: left;
+ 
+}
+.rong{
+    float: left;
+    width: 50%;
+    height: 82vh;
+    background-color:white;
+    padding-left: 40px;
+    padding-top: 20px;
+    margin-left: 50px;
+}
+.tum{
+    font-size: 20px;
+    color: rgb(136, 124, 124);
+}
+.delight{
+    margin-left: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+}
+.tigh{
+    color: rgb(105, 97, 97);
+}
+    
+
+.ap{
+    float: left;
+    padding-top: 10px;
+}
+.ab{
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+.win{
+    float: left;
+    padding-top: 20px;
+    
+}
+.ad{
+    float: left;
+    padding-top: 20px;
+}
+.qan{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    border-color:rgb(240, 235, 235);
+}
+.xan{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    border-color:rgb(240, 235, 235);
+}
+.yan{
+    width: 560px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-color:rgb(240, 235, 235);
+}
+.van{
+    width: 400px;
+    padding:80px;
+    border-color:rgb(240, 235, 235);
+}
+.xero{
+    padding-left: 100px;
+}
+.xtr{
+    padding-top: 30px;
+    line-height: 20px;
+    color: rgb(109, 102, 102);
+}
+.ox{
+    text-decoration: none;
+}
+.ix{
+    padding-top: 20px;
+}
+.rx{
+    padding-top: 60px;
+}
+.roop{
+    border-radius: 50px;
+    padding: 10px;
+    background-color:white;
+}
+.roop:hover{
+    background-color: #007bff ;
+}
+.rox{
+    float: left;
+}
+.top{
+    padding-top: 20px;
+}
+.lot{
+    list-style-type: none;
+    padding-top: 20px;
+}
+.kot{
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(109, 102, 102);
+}
+.pot{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.toy{
+    padding-top: 5px;
+}
+.oxn{
+    font-size: 25px;
+}
+.kox{
+    font-size: 20px;
+    color: rgb(100, 92, 92);
+}
+.koy{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.kiy{
+    padding-left: 90px;
+    padding-top: 20px;
+}
+.tiy{
+    padding-top: 25px;
+}
+.jiy{
+    padding-top: 40px;
+}
+.hiy{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+}
+.giy{
+    padding-top: 17px;
+    padding-left: 30px;
+    padding-right: 25px;
+    padding-bottom: 17px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.xero{
+    padding-top: 40px;
+    clear: both;
+    background-color:white;
+    height: 50vh;
+}
+.yik{
+    color:rgb(100, 92, 92);
+}
+.white{
+    margin-left: 110px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:#007bff ;
+    border: none;
+    font-size: 18px;
+}
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
